@@ -1,7 +1,7 @@
 ## Para clonar el repositorio ejecutar
 
 ~~~
-git clone https://github.com/RubenHernandez1/WH_PHP.git
+git clone https://github.com/RubenHernandez1/WH_PH.git
 ~~~
 
 
