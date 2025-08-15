@@ -42,3 +42,11 @@ php artisan serve
 ### '/' para guardar datos
 ### '/mensajes' para visualizar los mensajes guardados
 ### '/guardar' aqui se manda la información introducida en '/'
+
+
+
+Versiones de Laravel y php utilizadas:
+~~~
+php 8.3.16
+Laravel 12
+~~~
